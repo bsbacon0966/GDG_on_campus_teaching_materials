@@ -7,10 +7,16 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
   - 帶領學員理解Markdown語言
   - 帶領學員編輯筆記，並且教學讓筆記開發效率更高的工具介紹
   - 帶領學員理解"多人共編"之操作方式
+![image](https://github.com/user-attachments/assets/924258aa-5bd1-4b64-968e-0694f4c1b04e)
+
+![image](https://github.com/user-attachments/assets/42dc93b4-c7b7-434f-99e9-b47667c8816b)
+
 - [資訊是甚麼，可以吃嗎?Python抓取線上資訊並進行視覺化分析](https://hackmd.io/VHnsAMYmQDeK_J6lX-bj3w)
   - 帶領學員理解資料分析之步驟
   - 帶領學員抓去政府公開資訊分析資料
   - 介紹資料視覺化之工具
+![image](https://github.com/user-attachments/assets/6ff644cc-0aa8-4242-bc5d-6b42dad3e8d8)
+
 - [讓Python自動啟動吧!利用工作排程器](https://hackmd.io/C7UnSHhARjmfAJdpkGYWjA)
   - 帶領學員體驗"Windows工作排程器"之作用
   - 帶領學員打造bat執行檔案並讓工作排程器成功在本地端運作
