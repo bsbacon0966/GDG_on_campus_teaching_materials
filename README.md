@@ -22,6 +22,17 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
 ## [讓Python自動啟動吧!利用工作排程器](https://hackmd.io/C7UnSHhARjmfAJdpkGYWjA)
   - 帶領學員體驗"Windows工作排程器"之作用
   - 帶領學員打造bat執行檔案並讓工作排程器成功在本地端運作
+
 ## [糟糕!剛剛才發現後天就要上台報告，如何靠AI工具逆轉危機？2025ver.](https://hackmd.io/GY7e3KFmQcuG7L4jI6nvvA)
   - 介紹一些現有AI工具，以實際例子操作讓學員理解各項工具的強項
   - 讓學員能夠混合運用AI工具完成當前複雜任務
+  - 預覽圖片
+    - ![14037](https://github.com/user-attachments/assets/c51676ed-f136-4d7a-a9c8-c416dbc0b61c)
+
+## [LINE Bot的記憶傳承人](https://hackmd.io/xvXpuvdCRf2WRCWDzuCA3w)
+  - 申請 Firebase 憑證
+  - 了解Firebase結構，透過呼叫 Collection ➡️ Document 進行資料讀寫
+  - 提供開發 LINE Bot 測試技巧與開發環境以提升測試開發時間
+  - 將 LINE Bot、Firebase 與 Gemini 結合，讓聊天機器人做到過目不忘
+    - 預覽圖片
+    ![image](https://github.com/user-attachments/assets/a3c4f531-2b1a-4bc8-8f7c-6c79783312c5)
