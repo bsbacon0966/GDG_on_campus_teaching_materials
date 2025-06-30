@@ -8,8 +8,28 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
 </p>
 
 (2024-2025 申請中)
+# Teaching Materials (AI智慧應用創新培力工作坊)
 
-# Teaching Materials
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e268b871-4d5c-4bd5-ab51-535ec138f18d" width="70%">
+</p>
+
+## [效率神器：Python 協同 Gemini，辦公事半功倍(1)](https://hackmd.io/@kHwE-_lVR8W5i9sJMWakSg/BJn_ZLgqkg)
+- 了解如何獲取與應用Gemini API Key
+- 從0開始，利用Gemini與Python讀寫分析Excel檔案
+- 實際體驗Prompt Engineering與微調參數對生成式語言模型的影響
+
+## [效率神器：Python 協同 Gemini，辦公事半功倍(2)](https://hackmd.io/@kHwE-_lVR8W5i9sJMWakSg/H1EZmoEoyl)
+- 從0開始，透過 政府公開資料csv、json檔案 抓取天氣預報(外部訊息)
+- 結合第一堂課筆記，結合Gemini，生成符合天氣狀況的廣告文案
+- 利用Windows內建功能，自動驅動你的本地Pyhton程式碼
+
+## [擁抱 AI 世界！從0開始玩轉 Hugging Face](https://hackmd.io/@kHwE-_lVR8W5i9sJMWakSg/H1ne_3Uokl)
+- 掌握 Hugging Face 生態系統 —— 了解 Transformer 技術，學會模型的尋找與調用方式
+- 實作多種 AI model 應用 —— 體驗並運用 Hugging Face 上的文本分析、語音生成、圖像生成
+- 整合 AI 能力，解決複合問題 —— 結合多種模型，構建出能夠理解、分析與應答的 AI 客服系統
+
+# Teaching Materials (一般社課)
 ## [告別混亂!最強線上共同筆記編譯網站HackMD，從零開始到實際操作](https://hackmd.io/n7OQaLrqRiaRRHp0rR4IPw) (社員評價: 8.875 / 滿分10)
   - 主要教學讓學員能夠熟悉HackMD平台
   - 帶領學員理解Markdown語言
@@ -54,6 +74,9 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a3c4f531-2b1a-4bc8-8f7c-6c79783312c5" width="60%">
 </p>
+
+# Teaching Materials (還未教學之課程/未來準備/廢案課程)
+
 
 ## 心得
 其實課程的規劃、整理與教學本就是一件吃力不討好的事，尤其像我們這類不收講師費（僅向學員收取教室租借與活動必要輸出費用）的活動，要找到合適且願意投入的幹部確實不容易。很感謝社團夥伴們在這段過程中給予我許多協助，無論是建議方向，還是協助修正課程內容，都對我幫助很多。
