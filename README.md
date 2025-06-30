@@ -4,7 +4,7 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
 # Google Badge
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6d40cd0-8dc3-43c6-b618-c0f699be8053" width="60%">
+  <img src="https://github.com/user-attachments/assets/b6d40cd0-8dc3-43c6-b618-c0f699be8053" width="40%">
 </p>
 
 
