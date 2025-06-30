@@ -8,6 +8,9 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
   - 帶領學員編輯筆記，並且教學讓筆記開發效率更高的工具介紹
   - 帶領學員理解"多人共編"之操作方式
   - 圖片預覽
+  - <div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/924258aa-5bd1-4b64-968e-0694f4c1b04e" style="width: 100%; border: 2px solid black; padding: 5px;" />
+</div>
     - ![image](https://github.com/user-attachments/assets/924258aa-5bd1-4b64-968e-0694f4c1b04e)
 
     - ![image](https://github.com/user-attachments/assets/42dc93b4-c7b7-434f-99e9-b47667c8816b)
