@@ -13,14 +13,18 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
   <img src="https://github.com/user-attachments/assets/924258aa-5bd1-4b64-968e-0694f4c1b04e" width="60%">
 </p>
 
-    ![image](https://github.com/user-attachments/assets/42dc93b4-c7b7-434f-99e9-b47667c8816b)
+    <p align="center">
+  <img src="https://github.com/user-attachments/assets/42dc93b4-c7b7-434f-99e9-b47667c8816b" width="60%">
+</p>
 
 ## [資訊是甚麼，可以吃嗎?Python抓取線上資訊並進行視覺化分析](https://hackmd.io/VHnsAMYmQDeK_J6lX-bj3w)
   - 帶領學員理解資料分析之步驟
   - 帶領學員抓去政府公開資訊分析資料
   - 介紹資料視覺化之工具
   - 預覽圖片
-    - ![image](https://github.com/user-attachments/assets/6ff644cc-0aa8-4242-bc5d-6b42dad3e8d8)
+        <p align="center">
+  <img src="https://github.com/user-attachments/assets/6ff644cc-0aa8-4242-bc5d-6b42dad3e8d8" width="60%">
+</p>
 
 ## [讓Python自動啟動吧!利用工作排程器](https://hackmd.io/C7UnSHhARjmfAJdpkGYWjA)
   - 帶領學員體驗"Windows工作排程器"之作用
@@ -30,7 +34,9 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
   - 介紹一些現有AI工具，以實際例子操作讓學員理解各項工具的強項
   - 讓學員能夠混合運用AI工具完成當前複雜任務
   - 預覽圖片
-    - ![14037](https://github.com/user-attachments/assets/c51676ed-f136-4d7a-a9c8-c416dbc0b61c)
+    <p align="center">
+  <img src="https://github.com/user-attachments/assets/c51676ed-f136-4d7a-a9c8-c416dbc0b61c" width="60%">
+</p>
 
 ## [LINE Bot的記憶傳承人](https://hackmd.io/xvXpuvdCRf2WRCWDzuCA3w)
   - 申請 Firebase 憑證
@@ -38,4 +44,6 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
   - 提供開發 LINE Bot 測試技巧與開發環境以提升測試開發時間
   - 將 LINE Bot、Firebase 與 Gemini 結合，讓聊天機器人做到過目不忘
     - 預覽圖片
-    ![image](https://github.com/user-attachments/assets/a3c4f531-2b1a-4bc8-8f7c-6c79783312c5)
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/a3c4f531-2b1a-4bc8-8f7c-6c79783312c5" width="60%">
+</p>
