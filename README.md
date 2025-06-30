@@ -7,12 +7,12 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
   - 帶領學員理解Markdown語言
   - 帶領學員編輯筆記，並且教學讓筆記開發效率更高的工具介紹
   - 帶領學員理解"多人共編"之操作方式
-    
-    <p align="center">
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/924258aa-5bd1-4b64-968e-0694f4c1b04e" width="60%">
 </p>
 
-    <p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/42dc93b4-c7b7-434f-99e9-b47667c8816b" width="60%">
 </p>
 
@@ -20,7 +20,8 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
   - 帶領學員理解資料分析之步驟
   - 帶領學員抓去政府公開資訊分析資料
   - 介紹資料視覺化之工具
-        <p align="center">
+    
+<p align="center">
   <img src="https://github.com/user-attachments/assets/6ff644cc-0aa8-4242-bc5d-6b42dad3e8d8" width="60%">
 </p>
 
@@ -31,8 +32,8 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
 ## [糟糕!剛剛才發現後天就要上台報告，如何靠AI工具逆轉危機？2025ver.](https://hackmd.io/GY7e3KFmQcuG7L4jI6nvvA)
   - 介紹一些現有AI工具，以實際例子操作讓學員理解各項工具的強項
   - 讓學員能夠混合運用AI工具完成當前複雜任務
-  - 預覽圖片
-    <p align="center">
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/c51676ed-f136-4d7a-a9c8-c416dbc0b61c" width="60%">
 </p>
 
@@ -42,7 +43,7 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
   - 提供開發 LINE Bot 測試技巧與開發環境以提升測試開發時間
   - 將 LINE Bot、Firebase 與 Gemini 結合，讓聊天機器人做到過目不忘
 
-  <p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/a3c4f531-2b1a-4bc8-8f7c-6c79783312c5" width="60%">
 </p>
 
