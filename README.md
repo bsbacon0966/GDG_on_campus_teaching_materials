@@ -7,6 +7,7 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
   <img src="https://github.com/user-attachments/assets/b08b0c90-a5f9-49ad-be46-3b96cf1ba77a" width="100%">
 </p>
 
+(2024-2025 申請中)
 
 # Teaching Materials
 ## [告別混亂!最強線上共同筆記編譯網站HackMD，從零開始到實際操作](https://hackmd.io/n7OQaLrqRiaRRHp0rR4IPw) (社員評價: 8.875 / 滿分10)
