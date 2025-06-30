@@ -1,6 +1,13 @@
 # GDG_on_campus_teaching_materials
 As the Technical Lead of GDG on Campus for 2024, in addition to organizing the technical team, preparing courses, and leading project progress, I also serve as an instructor, teaching members various useful tools. Below are the course contents I have prepared for this organization.
 
+# Google Badge
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6d40cd0-8dc3-43c6-b618-c0f699be8053" width="60%">
+</p>
+
+
 # Teaching Materials
 ## [告別混亂!最強線上共同筆記編譯網站HackMD，從零開始到實際操作](https://hackmd.io/n7OQaLrqRiaRRHp0rR4IPw) (社員評價: 8.875 / 滿分10)
   - 主要教學讓學員能夠熟悉HackMD平台
