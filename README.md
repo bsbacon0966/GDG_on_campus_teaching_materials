@@ -77,8 +77,17 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
 
 # Teaching Materials (還未教學之課程/未來準備/廢案課程)
 
+## [GAS主題課程 : Google App Script與Google Sheet互動](https://hackmd.io/@kHwE-_lVR8W5i9sJMWakSg/SJRj2tkdJl)
+- 理解並操作 SpreadsheetApp API 架構
+- 能撰寫條件式資料處理邏輯
+- 具備資料座標與結構索引應用能力
 
-## 心得
+## [GAS主題課程 : Google App Script與生程式AI工作 基礎篇](https://hackmd.io/@kHwE-_lVR8W5i9sJMWakSg/ryOJaSxq1x)
+- 熟悉 Gemini API 與安全連接設置流程
+- 能操作試算表資料並與 AI 整合運用
+- 具備基本 Prompt 工程與輸出規劃能力
+
+# 心得
 其實課程的規劃、整理與教學本就是一件吃力不討好的事，尤其像我們這類不收講師費（僅向學員收取教室租借與活動必要輸出費用）的活動，要找到合適且願意投入的幹部確實不容易。很感謝社團夥伴們在這段過程中給予我許多協助，無論是建議方向，還是協助修正課程內容，都對我幫助很多。
 
 也感謝大家在基礎架構上給予我極大的自由度，讓我能夠全權規劃課程內容，像 AI 工具這門課，就是我一直很想推廣的主題，這次也終於有機會實現，也是我預計每一年都可以重新整理並推廣的課程內容，能夠有這樣的平台與舞台，去教導外面少有資源提供的內容，我感到非常難得與珍惜。
