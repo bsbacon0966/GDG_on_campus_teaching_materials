@@ -87,6 +87,11 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
 - 能操作試算表資料並與 AI 整合運用
 - 具備基本 Prompt 工程與輸出規劃能力
 
+## [Case Study : 你為何需要學會使用AI工具?為何其他人的AI工具比較聰明?](https://docs.google.com/presentation/d/1qhfIwDc5f00Qbi_WkIPYZ0kfpkQUlfeC/edit?usp=drive_link&ouid=118066717766893473329&rtpof=true&sd=true)
+- 說明為何現在你應該要學會使用生成式AI
+- 利用Prompt Design讓生成式AI回答更清晰
+- 延伸應用，各種AI工具擅長領域與可應用場景
+
 # 心得
 其實課程的規劃、整理與教學本就是一件吃力不討好的事，尤其像我們這類不收講師費（僅向學員收取教室租借與活動必要輸出費用）的活動，要找到合適且願意投入的幹部確實不容易。很感謝社團夥伴們在這段過程中給予我許多協助，無論是建議方向，還是協助修正課程內容，都對我幫助很多。
 
