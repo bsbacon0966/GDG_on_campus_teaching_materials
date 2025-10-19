@@ -30,6 +30,16 @@ As the Technical Lead of GDG on Campus for 2024, in addition to organizing the t
 - 整合 AI 能力，解決複合問題 —— 結合多種模型，構建出能夠理解、分析與應答的 AI 客服系統
 
 # Teaching Materials (一般社課)
+## [Notion : 最適合一般人學習與進入專案管理的筆記轉體，從0開始到實際操作](https://www.notion.so/28ab2ad2f353806e942df6a5fb922245?v=28ab2ad2f35380d4bdd5000cfdb53cb3)
+- 帶領學員從0開始理解Notion操作方法
+- 從0開始建立個人任務列表
+- 從0開始理解Notion最自豪的功能 : Notion Database & Database Relation
+  
+<p align="center">
+  <img width="647" height="520" alt="image" src="https://github.com/user-attachments/assets/4709adad-ef91-4faa-a9ef-2a448311cbf9" />
+</p>
+
+
 ## [告別混亂!最強線上共同筆記編譯網站HackMD，從零開始到實際操作](https://hackmd.io/n7OQaLrqRiaRRHp0rR4IPw) (社員評價: 8.875 / 滿分10)
   - 主要教學讓學員能夠熟悉HackMD平台
   - 帶領學員理解Markdown語言
